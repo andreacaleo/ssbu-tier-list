@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Automated Super Smash Bros Ultimate Tier List
+
+## Current tier list
+
+Image here
+
+## Enter a tournament match result
+
+Poll here
+
+
 
 You can use the [editor on GitHub](https://github.com/andreacaleo/ssbu-tier-list/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
